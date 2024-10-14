@@ -7,7 +7,7 @@
 // import '../models/QuesAns.dart';
 //
 // final List<Map<String, String>> messages = [];
-// const String openAiKey = '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';
+// const String openAiKey = 'API_KEY';
 //
 // class CompletionPage extends StatefulWidget {
 //   final ChatGpt chatGpt;
