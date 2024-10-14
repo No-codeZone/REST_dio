@@ -3,7 +3,7 @@
 // import '../utils/ChatCompletion.dart';
 // import '../utils/CompletionPage.dart';
 //
-// const String key='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';
+// const String key='API_KEY';
 // final chatGpt=ChatGpt(apiKey: key);
 //
 // class IntegrateOpenAI extends StatefulWidget {
